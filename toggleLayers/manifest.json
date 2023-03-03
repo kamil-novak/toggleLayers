@@ -1,0 +1,25 @@
+{
+  "name": "toggleLayers",
+  "label": "Toggle Layers",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.10.0",
+  "author": "OGIS Most, Kamil Novák",
+  "description": "Přepínání vrstev v rámci mapové služby.",
+  "copyright": "",
+  "license": "",
+  "properties": {
+    "hasConfig": true,
+    "hasConfigInSettingPage": true,
+    "hasSettingPage": true
+
+  },
+  "dependency": ["jimu-arcgis"],
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 160,
+    "height": 80
+  }
+}
